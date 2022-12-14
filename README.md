@@ -4,7 +4,7 @@
 	
   👀 I’m interested in Web Development.
 		
-  🌱 I’m currently learning HTML5, CSS3, Bootstrap, Javascript etc.
+  🌱 I’m currently learning HTML5, CSS3, Bootstrap, Javascript, ReactJs etc.
 		
   📫 How to reach me: https://www.linkedin.com/in/akter-fatema
 		
